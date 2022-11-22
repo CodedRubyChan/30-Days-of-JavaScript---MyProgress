@@ -1,0 +1,7 @@
+console.log('These are different Data Types:')
+console.log(typeof undefinedRuby)
+console.log(typeof null)
+console.log(typeof true)
+console.log(typeof 'rubyredheart')
+console.log(typeof 5)
+console.log(typeof -7.53)
